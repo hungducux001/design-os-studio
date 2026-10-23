@@ -12,7 +12,7 @@ path = "src/main.rs"
 
 [[bin]]
 name = "designos"
-path = "src/main.rs"
+path = "src/designos.rs"
 
 [features]
 default = ["open-url"]
